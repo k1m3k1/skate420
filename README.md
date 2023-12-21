@@ -13,7 +13,7 @@ Bienvenue sur le site web de [Skate420] ! Cette vitrine présente [une boutique 
 
     ```bash
     git clone 
-    ``mon compte github``
+    ``[@k1m3k1]``
     cd votre-site
     ```
 
@@ -31,6 +31,9 @@ Si vous souhaitez personnaliser le contenu ou les styles, consultez les fichiers
 ## Dépendances
 
 Listez ici toutes les dépendances logicielles nécessaires pour exécuter le site:
+- GitHub
+- GitHub Desktop
+- Git
 
 ## Licence
 
@@ -38,9 +41,10 @@ Ce site est sous licence [Creative Commons Attribution-NonCommercial 4.0 Interna
 
 ## Auteur
 
-- [@k1m3k1](lien-vers-votre-profil-github) - [kim]
+- [@k1m3k1](https://github.com/k1m3k1) - [kim]
 
 ## Remerciements
 
-Merci à [bootstrap] pour [une fonctionnalité ou une ressource particulière].
+Merci à **Bootstrap 5** pour [la grille flexible](https://getbootstrap.com/docs/5.0/getting-started/introduction/) qui simplifie grandement la création de mises en page réactives.
+
 
