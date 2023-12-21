@@ -30,7 +30,7 @@ Si vous souhaitez personnaliser le contenu ou les styles, consultez les fichiers
 
 ## Dépendances
 
-Listez ici toutes les dépendances logicielles nécessaires pour exécuter le site:
+Toutes les dépendances logicielles nécessaires pour exécuter le site:
 - GitHub
 - GitHub Desktop
 - Git
