@@ -4,7 +4,8 @@ Bienvenue sur le site web de [Skate420] ! Cette vitrine présente [une boutique 
 
 ## Aperçu
 
-[Incluez ici une capture d'écran ou une description visuelle du site.]
+<img width="1246" alt="image" src="https://github.com/k1m3k1/skate420/assets/147629611/de19d64d-9545-42e3-86ca-5f812344f71d">
+
 
 ## Comment visualiser le site
 
