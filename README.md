@@ -11,10 +11,10 @@ Bienvenue sur le site web de [Skate420] ! Cette vitrine présente [une boutique 
 
 1. Clonez ce dépôt sur votre machine locale :
 
-    ```bash
-    git clone 
-    ``[@k1m3k1]``
-    cd votre-site
+    ```
+  
+  [@k1m3k1]
+
     ```
 
 2. Ouvrez le fichier `index.html` dans votre navigateur préféré.
