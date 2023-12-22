@@ -29,6 +29,7 @@ Si vous souhaitez personnaliser le contenu ou les styles, consultez les fichiers
 ## Dépendances
 
 Toutes les dépendances logicielles nécessaires pour exécuter le site:
+- Visual Studio Code
 - GitHub
 - GitHub Desktop
 - Git
